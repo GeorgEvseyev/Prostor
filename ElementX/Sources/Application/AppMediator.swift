@@ -9,6 +9,7 @@
 import AVFoundation
 import UIKit
 
+//
 class AppMediator: AppMediatorProtocol {
     let windowManager: WindowManagerProtocol
     let networkMonitor: NetworkMonitorProtocol
