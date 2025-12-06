@@ -1,0 +1,54 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild test -project ElementX.xcodeproj -scheme ElementX -destination "platform=iOS Simulator,OS=18.6,name=iPhone 16" "-only-testing:TargetName/TestClass/testMethod"
+
+Resolve Package Graph
+
+
+Resolved source packages:
+  Emojibase: https://github.com/matrix-org/emojibase-bindings @ 1.4.2
+  swift-algorithms: https://github.com/apple/swift-algorithms @ 1.2.1
+  swift-numerics: https://github.com/apple/swift-numerics @ 1.0.2
+  SwiftSoup: https://github.com/scinfu/SwiftSoup.git @ 2.8.8
+  KZFileWatchers: https://github.com/krzysztofzablocki/KZFileWatchers @ 1.2.0
+  SwiftState: https://github.com/ReactKit/SwiftState @ 6.0.1
+  swiftui-introspect: https://github.com/siteline/SwiftUI-Introspect @ 26.0.0
+  DTFoundation: https://github.com/Cocoanetics/DTFoundation.git @ 1.7.18
+  xctest-dynamic-overlay: https://github.com/pointfreeco/xctest-dynamic-overlay @ 1.5.2
+  EmbeddedElementCall: https://github.com/element-hq/element-call-swift @ 0.16.0-rc.4
+  DTCoreText: https://github.com/Cocoanetics/DTCoreText @ 1.6.26
+  swift-collections: https://github.com/apple/swift-collections @ 1.2.0
+  MapLibre GL Native: https://github.com/maplibre/maplibre-gl-native-distribution @ 5.13.0
+  Mutex: https://github.com/swhitty/swift-mutex @ 0.0.6
+  swift-async-algorithms: https://github.com/apple/swift-async-algorithms @ 1.0.4
+  AnalyticsEvents: https://github.com/matrix-org/matrix-analytics-events @ 0.29.2
+  LRUCache: https://github.com/nicklockwood/LRUCache @ 1.0.4
+  Dynamic: https://github.com/mhdhejazi/Dynamic @ 1.2.0
+  SFSafeSymbols: https://github.com/SFSafeSymbols/SFSafeSymbols @ 7.0.0
+  CompoundDesignTokens: https://github.com/element-hq/compound-design-tokens @ 6.4.2
+  swift-snapshot-testing: https://github.com/pointfreeco/swift-snapshot-testing @ 1.18.3
+  PostHog: https://github.com/PostHog/posthog-ios @ 3.27.0
+  DSWaveformImage: https://github.com/dmrschmidt/DSWaveformImage @ 14.1.1
+  WysiwygComposer: https://github.com/element-hq/matrix-rich-text-editor-swift @ 2.37.12
+  DeviceKit: https://github.com/devicekit/DeviceKit @ 5.6.0
+  LoremSwiftum: https://github.com/lukaskubanek/LoremSwiftum @ 2.2.2
+  YbridOpus: https://github.com/vector-im/opus-swift @ 0.8.4
+  Kingfisher: https://github.com/onevcat/Kingfisher @ 8.3.3
+  swift-syntax: https://github.com/swiftlang/swift-syntax @ 509.0.0
+  Sentry: https://github.com/getsentry/sentry-cocoa @ 8.52.1
+  swift-custom-dump: https://github.com/pointfreeco/swift-custom-dump @ 1.3.3
+  SwiftOGG: https://github.com/element-hq/swift-ogg @ 0.0.3
+  YbridOgg: https://github.com/vector-im/ogg-swift.git @ 0.8.3
+  KeychainAccess: https://github.com/kishikawakatsumi/KeychainAccess @ 4.2.2
+  swift-concurrency-extras: https://github.com/pointfreeco/swift-concurrency-extras @ 1.3.2
+  GZIP: https://github.com/nicklockwood/GZIP @ 1.3.2
+  swift-clocks: https://github.com/pointfreeco/swift-clocks @ 1.0.6
+  Version: https://github.com/mxcl/Version @ 2.2.0
+  MatrixRustSDK: https://github.com/element-hq/matrix-rust-components-swift @ 25.12.2
+  Compound: /Users/georg/Prostor/element-x-ios/compound-ios
+
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, arch:arm64, id:6F9D7555-2938-4D27-B24A-70170204FDB8, OS:18.6, name:iPhone 16 }
+{ platform:iOS Simulator, arch:x86_64, id:6F9D7555-2938-4D27-B24A-70170204FDB8, OS:18.6, name:iPhone 16 }
+2025-12-06 16:48:16.274 xcodebuild[40400:369247] Writing error result bundle to /var/folders/6q/ly9kh4dx5s937l6_s9k07rr40000gn/T/ResultBundle_2025-06-12_16-48-0016.xcresult
+xcodebuild: error: Failed to build project ElementX with scheme ElementX.: Tests in the target “TargetName” can’t be run because “TargetName” isn’t a member of the specified test plan or scheme.
+Found unhandled resource at /Users/georg/Library/Developer/Xcode/DerivedData/ElementX-bapzhadjqvjnmuekcywbliyiimeq/SourcePackages/checkouts/element-call-swift/Sources/dist
