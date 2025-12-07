@@ -9535,7 +9535,7 @@
 		};
 		6FC4820D8D4559CEECA064D7 /* XCRemoteSwiftPackageReference "matrix-rust-components-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/element-hq/matrix-rust-components-swift";
+			repositoryURL = "git.com:GeorgEvseyev/matrix-rust-components-swift.git";
 			requirement = {
 				kind = exactVersion;
 				version = 25.12.02;
@@ -9559,7 +9559,7 @@
 		};
 		8213398B60F9B660D9216ADF /* XCRemoteSwiftPackageReference "element-call-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/element-hq/element-call-swift";
+			repositoryURL = "git.com:GeorgEvseyev/element-call-swift.git";
 			requirement = {
 				kind = exactVersion;
 				version = "0.16.0-rc.4";
@@ -9655,7 +9655,7 @@
 		};
 		E2F3DA35D462724CCC61DE2C /* XCRemoteSwiftPackageReference "swift-ogg" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/element-hq/swift-ogg";
+			repositoryURL = "git.com:GeorgEvseyev/swift-ogg.git";
 			requirement = {
 				kind = upToNextMinorVersion;
 				minimumVersion = 0.0.3;
@@ -9679,7 +9679,7 @@
 		};
 		EE40B0E16A55BD23ECBFFD22 /* XCRemoteSwiftPackageReference "matrix-rich-text-editor-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/element-hq/matrix-rich-text-editor-swift";
+			repositoryURL = "git.com:GeorgEvseyev/matrix-rich-text-editor-swift.git";
 			requirement = {
 				kind = exactVersion;
 				version = 2.37.12;

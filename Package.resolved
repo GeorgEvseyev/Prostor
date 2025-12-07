@@ -13,7 +13,7 @@
     {
       "identity" : "swift-command-line-tools",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/element-hq/swift-command-line-tools.git",
+      "location" : "git.com:GeorgEvseyev/swift-command-line-tools.git",
       "state" : {
         "revision" : "e5eaab1558ef664e6cd80493f64259381670fb3a"
       }
