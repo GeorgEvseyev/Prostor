@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/apple/swift-argument-parser", .upToNextMinor(from: "1.6.2")),
-        .package(url: "https://github.com/GeorgEvseyev/swift-command-line-tools.git", from: "0.1.0"),
+        .package(url: "git@github.com:GeorgEvseyev/swift-command-line-tools.git", from: "0.1.0"),
         .package(url: "https://github.com/jpsim/Yams", .upToNextMinor(from: "6.2.0"))
     ],
     targets: [
