@@ -1,0 +1,286 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -resolvePackageDependencies
+
+Resolve Package Graph
+
+Fetching from https://github.com/pointfreeco/xctest-dynamic-overlay
+
+Fetching from https://github.com/SFSafeSymbols/SFSafeSymbols
+
+Fetching from https://github.com/element-hq/compound-design-tokens
+
+Fetching from https://github.com/swiftlang/swift-syntax
+
+Fetching from https://github.com/siteline/SwiftUI-Introspect
+
+Fetching from https://github.com/pointfreeco/swift-snapshot-testing
+
+Fetching from https://github.com/pointfreeco/swift-custom-dump
+
+Fetching from https://github.com/mxcl/Version
+
+Fetching from https://github.com/ReactKit/SwiftState
+
+Fetching from https://github.com/scinfu/SwiftSoup.git
+
+Fetching from https://github.com/element-hq/swift-ogg
+
+Fetching from https://github.com/swhitty/swift-mutex
+
+Fetching from https://github.com/apple/swift-collections
+
+Fetching from https://github.com/pointfreeco/swift-clocks
+
+Fetching from https://github.com/apple/swift-async-algorithms
+
+Fetching from https://github.com/apple/swift-algorithms
+
+Fetching from https://github.com/getsentry/sentry-cocoa
+
+Fetching from https://github.com/PostHog/posthog-ios
+
+Fetching from https://github.com/maplibre/maplibre-gl-native-distribution
+
+Fetching from https://github.com/element-hq/matrix-rich-text-editor-swift
+
+Fetching from https://github.com/matrix-org/matrix-analytics-events
+
+Fetching from https://github.com/element-hq/matrix-rust-components-swift
+
+Fetching from https://github.com/nicklockwood/LRUCache
+
+Fetching from https://github.com/onevcat/Kingfisher
+
+Fetching from https://github.com/lukaskubanek/LoremSwiftum
+
+Fetching from https://github.com/krzysztofzablocki/KZFileWatchers
+
+Fetching from https://github.com/kishikawakatsumi/KeychainAccess
+
+Fetching from https://github.com/nicklockwood/GZIP
+
+Fetching from https://github.com/matrix-org/emojibase-bindings
+
+Fetching from https://github.com/element-hq/element-call-swift
+
+Fetching from https://github.com/mhdhejazi/Dynamic
+
+Fetching from https://github.com/dmrschmidt/DSWaveformImage
+
+Fetching from https://github.com/devicekit/DeviceKit
+
+Fetching from https://github.com/vector-im/ogg-swift.git
+
+Fetching from https://github.com/vector-im/opus-swift
+
+Fetching from https://github.com/pointfreeco/swift-concurrency-extras
+
+Fetching from https://github.com/apple/swift-numerics.git
+
+Fetching from https://github.com/Cocoanetics/DTCoreText
+
+Fetching from https://github.com/Cocoanetics/DTFoundation.git
+
+Creating working copy of package ‘SwiftUI-Introspect’
+
+Checking out 26.0.0 of package ‘SwiftUI-Introspect’
+
+Creating working copy of package ‘maplibre-gl-native-distribution’
+
+Checking out 5.13.0 of package ‘maplibre-gl-native-distribution’
+
+Creating working copy of package ‘Version’
+
+Checking out 2.2.0 of package ‘Version’
+
+Creating working copy of package ‘matrix-rich-text-editor-swift’
+
+Checking out 2.37.12 of package ‘matrix-rich-text-editor-swift’
+
+Creating working copy of package ‘xctest-dynamic-overlay’
+
+Checking out 1.6.1 of package ‘xctest-dynamic-overlay’
+
+Creating working copy of package ‘GZIP’
+
+Checking out 1.3.2 of package ‘GZIP’
+
+Creating working copy of package ‘swift-custom-dump’
+
+Checking out 1.3.3 of package ‘swift-custom-dump’
+
+Creating working copy of package ‘ogg-swift’
+
+Checking out 0.8.3 of package ‘ogg-swift’
+
+Creating working copy of package ‘swift-numerics’
+
+Checking out 1.1.1 of package ‘swift-numerics’
+
+Creating working copy of package ‘swift-mutex’
+
+Checking out 0.0.6 of package ‘swift-mutex’
+
+Creating working copy of package ‘SwiftSoup’
+
+Checking out 2.8.8 of package ‘SwiftSoup’
+
+Creating working copy of package ‘swift-clocks’
+
+Checking out 1.0.6 of package ‘swift-clocks’
+
+Creating working copy of package ‘swift-concurrency-extras’
+
+Checking out 1.3.2 of package ‘swift-concurrency-extras’
+
+Creating working copy of package ‘KeychainAccess’
+
+Checking out 4.2.2 of package ‘KeychainAccess’
+
+Creating working copy of package ‘matrix-rust-components-swift’
+
+Checking out 25.12.2 of package ‘matrix-rust-components-swift’
+
+Creating working copy of package ‘Kingfisher’
+
+Checking out 8.3.3 of package ‘Kingfisher’
+
+Creating working copy of package ‘matrix-analytics-events’
+
+Checking out 0.29.2 of package ‘matrix-analytics-events’
+
+Creating working copy of package ‘posthog-ios’
+
+Checking out 3.27.0 of package ‘posthog-ios’
+
+Creating working copy of package ‘swift-algorithms’
+
+Checking out 1.2.1 of package ‘swift-algorithms’
+
+Creating working copy of package ‘DTFoundation’
+
+Checking out 1.7.19 of package ‘DTFoundation’
+
+Creating working copy of package ‘LoremSwiftum’
+
+Checking out 2.2.3 of package ‘LoremSwiftum’
+
+Creating working copy of package ‘element-call-swift’
+
+Checking out 0.16.0-rc.4 of package ‘element-call-swift’
+
+Creating working copy of package ‘LRUCache’
+
+Checking out 1.0.7 of package ‘LRUCache’
+
+Creating working copy of package ‘sentry-cocoa’
+
+Checking out 8.52.1 of package ‘sentry-cocoa’
+
+Creating working copy of package ‘SwiftState’
+
+Checking out 6.0.1 of package ‘SwiftState’
+
+Creating working copy of package ‘compound-design-tokens’
+
+Checking out 6.4.2 of package ‘compound-design-tokens’
+
+Creating working copy of package ‘DeviceKit’
+
+Checking out 5.6.0 of package ‘DeviceKit’
+
+Creating working copy of package ‘Dynamic’
+
+Checking out 1.2.0 of package ‘Dynamic’
+
+Creating working copy of package ‘swift-ogg’
+
+Checking out 0.0.3 of package ‘swift-ogg’
+
+Creating working copy of package ‘swift-collections’
+
+Checking out 1.2.1 of package ‘swift-collections’
+
+Creating working copy of package ‘swift-syntax’
+
+Checking out 601.0.1 of package ‘swift-syntax’
+
+Creating working copy of package ‘swift-snapshot-testing’
+
+Checking out 1.18.3 of package ‘swift-snapshot-testing’
+
+Creating working copy of package ‘KZFileWatchers’
+
+Checking out 1.2.0 of package ‘KZFileWatchers’
+
+Creating working copy of package ‘SFSafeSymbols’
+
+Checking out 7.0.0 of package ‘SFSafeSymbols’
+
+Creating working copy of package ‘DSWaveformImage’
+
+Checking out 14.1.1 of package ‘DSWaveformImage’
+
+Creating working copy of package ‘swift-async-algorithms’
+
+Checking out 1.0.4 of package ‘swift-async-algorithms’
+
+Creating working copy of package ‘opus-swift’
+
+Checking out 0.8.4 of package ‘opus-swift’
+
+Creating working copy of package ‘emojibase-bindings’
+
+Checking out 1.4.2 of package ‘emojibase-bindings’
+
+Creating working copy of package ‘DTCoreText’
+
+Checking out 1.6.26 of package ‘DTCoreText’
+
+Downloading package prebuilt https://download.swift.org/prebuilts/swift-syntax/601.0.1/swiftlang-6.2.1.4.8-MacroSupport-macos_aarch64.zip
+
+
+Resolved source packages:
+  SFSafeSymbols: https://github.com/SFSafeSymbols/SFSafeSymbols @ 7.0.0
+  LoremSwiftum: https://github.com/lukaskubanek/LoremSwiftum @ 2.2.3
+  swift-custom-dump: https://github.com/pointfreeco/swift-custom-dump @ 1.3.3
+  MapLibre GL Native: https://github.com/maplibre/maplibre-gl-native-distribution @ 5.13.0
+  Version: https://github.com/mxcl/Version @ 2.2.0
+  swift-snapshot-testing: https://github.com/pointfreeco/swift-snapshot-testing @ 1.18.3
+  DeviceKit: https://github.com/devicekit/DeviceKit @ 5.6.0
+  SwiftOGG: https://github.com/element-hq/swift-ogg @ 0.0.3
+  DTCoreText: https://github.com/Cocoanetics/DTCoreText @ 1.6.26
+  KZFileWatchers: https://github.com/krzysztofzablocki/KZFileWatchers @ 1.2.0
+  MatrixRustSDK: https://github.com/element-hq/matrix-rust-components-swift @ 25.12.2
+  PostHog: https://github.com/PostHog/posthog-ios @ 3.27.0
+  Kingfisher: https://github.com/onevcat/Kingfisher @ 8.3.3
+  GZIP: https://github.com/nicklockwood/GZIP @ 1.3.2
+  DSWaveformImage: https://github.com/dmrschmidt/DSWaveformImage @ 14.1.1
+  KeychainAccess: https://github.com/kishikawakatsumi/KeychainAccess @ 4.2.2
+  Dynamic: https://github.com/mhdhejazi/Dynamic @ 1.2.0
+  swift-collections: https://github.com/apple/swift-collections @ 1.2.1
+  Sentry: https://github.com/getsentry/sentry-cocoa @ 8.52.1
+  Mutex: https://github.com/swhitty/swift-mutex @ 0.0.6
+  swift-clocks: https://github.com/pointfreeco/swift-clocks @ 1.0.6
+  EmbeddedElementCall: https://github.com/element-hq/element-call-swift @ 0.16.0-rc.4
+  DTFoundation: https://github.com/Cocoanetics/DTFoundation.git @ 1.7.19
+  WysiwygComposer: https://github.com/element-hq/matrix-rich-text-editor-swift @ 2.37.12
+  YbridOpus: https://github.com/vector-im/opus-swift @ 0.8.4
+  swift-async-algorithms: https://github.com/apple/swift-async-algorithms @ 1.0.4
+  AnalyticsEvents: https://github.com/matrix-org/matrix-analytics-events @ 0.29.2
+  SwiftState: https://github.com/ReactKit/SwiftState @ 6.0.1
+  Compound: /Users/georg/Prostor/element-x-ios/compound-ios
+  Emojibase: https://github.com/matrix-org/emojibase-bindings @ 1.4.2
+  YbridOgg: https://github.com/vector-im/ogg-swift.git @ 0.8.3
+  LRUCache: https://github.com/nicklockwood/LRUCache @ 1.0.7
+  swiftui-introspect: https://github.com/siteline/SwiftUI-Introspect @ 26.0.0
+  swift-concurrency-extras: https://github.com/pointfreeco/swift-concurrency-extras @ 1.3.2
+  SwiftSoup: https://github.com/scinfu/SwiftSoup.git @ 2.8.8
+  swift-numerics: https://github.com/apple/swift-numerics.git @ 1.1.1
+  swift-algorithms: https://github.com/apple/swift-algorithms @ 1.2.1
+  swift-syntax: https://github.com/swiftlang/swift-syntax @ 601.0.1
+  xctest-dynamic-overlay: https://github.com/pointfreeco/xctest-dynamic-overlay @ 1.6.1
+  CompoundDesignTokens: https://github.com/element-hq/compound-design-tokens @ 6.4.2
+
+resolved source packages: SFSafeSymbols, LoremSwiftum, swift-custom-dump, MapLibre GL Native, Version, swift-snapshot-testing, DeviceKit, SwiftOGG, DTCoreText, KZFileWatchers, MatrixRustSDK, PostHog, Kingfisher, GZIP, DSWaveformImage, KeychainAccess, Dynamic, swift-collections, Sentry, Mutex, swift-clocks, EmbeddedElementCall, DTFoundation, WysiwygComposer, YbridOpus, swift-async-algorithms, AnalyticsEvents, SwiftState, Compound, Emojibase, YbridOgg, LRUCache, swiftui-introspect, swift-concurrency-extras, SwiftSoup, swift-numerics, swift-algorithms, swift-syntax, xctest-dynamic-overlay, CompoundDesignTokens
+Found unhandled resource at /Users/georg/Library/Developer/Xcode/DerivedData/ElementX-bapzhadjqvjnmuekcywbliyiimeq/SourcePackages/checkouts/element-call-swift/Sources/dist
