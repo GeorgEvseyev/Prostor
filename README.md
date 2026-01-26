@@ -64,7 +64,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ### Модификации:
 - Удалены enterprise-компоненты
-- Добавлен кастомный брендинг (Prostor)
+- Добавлен кастомный брендинг (Element Call X)
 - Обновлены конфигурационные файлы
 
 ### Лицензия:

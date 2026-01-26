@@ -1,6 +1,6 @@
-# Prostor iOS Upgrade Guide
+# Callelement-x iOS Upgrade Guide
 
-Это руководство описывает процесс обновления Prostor (форк Element X iOS) с сохранением кастомных изменений.
+Это руководство описывает процесс обновления Callelement-x (форк Element X iOS) с сохранением кастомных изменений.
 
 ## 🏗️ Архитектура обновлений
 
