@@ -1,10 +1,22 @@
-### Pull Request Checklist
+## Описание изменений
 
-- [ ] I read the [contributing guide](https://github.com/element-hq/element-ios/blob/develop/CONTRIBUTING.md).
-- [ ] Pull request contains a [changelog label](https://github.com/element-hq/element-x-ios/blob/develop/CONTRIBUTING.md#changelog).
+[Опишите что было изменено и почему]
 
-**UI changes have been tested with:**
-- [ ] iPhone and iPad simulators in portrait and landscape orientations.
-- [ ] Dark mode enabled and disabled.
-- [ ] Various sizes of dynamic type.
-- [ ] Voiceover enabled.
+## Тип изменений
+- [ ] Исправление бага
+- [ ] Новая функциональность  
+- [ ] Обновление зависимостей
+- [ ] Обновление из upstream
+- [ ] Рефакторинг
+- [ ] Документация
+
+## Чеклист
+- [ ] Мой код следует стилю проекта
+- [ ] Я проверил код самостоятельно
+- [ ] Я добавил тесты (если нужно)
+- [ ] Вся документация обновлена
+
+## Скриншоты (если применимо)
+
+## Ссылки на связанные issues
+Closes # 
